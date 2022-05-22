@@ -2,7 +2,11 @@
   "name": "fast-restaurant",
   "author": "James Drury",
   "license": "UNLICENSED",
-  "main": "src/index.js",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x",
+    "npm": "8.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
